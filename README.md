@@ -85,9 +85,10 @@ I am passionate about building and contributing to the tech community. Here’s 
 <p align="center">
   <a href="https://linkedin.com/in/eng-mohammed"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/></a>&nbsp;
   <a href="mailto:eng.mohammed03alaa@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="30"/></a>&nbsp;
-  <a href="https://github.com/mohammedalaa-19"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/></a>
+  <a href="https://github.com/mohammedalaa-19"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/></a>&nbsp;
+  <a href="https://wa.me/201010572428"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="30"/></a>
 </p>
 
 ---
 
-💡 *I'm always open to discussing exciting projects, open-source contributions, or collaboration opportunities.* 🚀  
+💡 *I'm always open to discussing exciting projects, open-source contributions, or collaboration opportunities.* 🚀
