@@ -45,15 +45,6 @@ I’m a dedicated Software Engineer who thrives at the intersection of **network
 
 ---
 
-## 🚀 Spotlight Projects  
-
-- **[Node-JS-Tasks](https://github.com/mohammedalaa-19/Node-JS-Tasks)**  
-  A collection of Node.js backend tasks exploring core concepts like routing, promises, and CRUD.  
-  **Tech Stack:** `Node.js` `Express` `JavaScript`
-
-- **[Network Infrastructure Labs](#)**  
-  Hands-on labs covering **switching, routing, and services** for network engineers.  
-  **Tech Stack:** `Cisco Packet Tracer` `Networking` `Linux`
 
 ---
 
