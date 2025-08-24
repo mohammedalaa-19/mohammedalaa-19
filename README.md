@@ -48,16 +48,21 @@ I’m a dedicated Software Engineer who thrives at the intersection of **network
 
 ---
 
-## 📊 My GitHub Stats  
+## 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedalaa-19&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedalaa-19&layout=compact&hide=html,css&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammedalaa-19&theme=dracula&no-frame=true&row=1&column=6" width="100%"/>
-</p>
+<div align="center">
+  <table border="0" cellpadding="10">
+    <tr valign="top">
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedalaa-19&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedalaa-19&layout=compact&hide=html,css&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammedalaa-19&theme=tokyonight" alt="GitHub Profile Summary"/>
+</div>
 
 ---
 ## 📝 Knowledge Sharing & Community
@@ -79,16 +84,16 @@ I am passionate about building and contributing to the tech community. Here’s 
 </p>
 
 ---
-
 ## 📫 Let’s Collaborate & Connect  
 
 <p align="center">
   <a href="https://linkedin.com/in/eng-mohammed"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/></a>&nbsp;
   <a href="mailto:eng.mohammed03alaa@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="30"/></a>&nbsp;
   <a href="https://github.com/mohammedalaa-19"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/></a>&nbsp;
-  <a href="https://wa.me/201010572428"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="30"/></a>
+  <a href="https://wa.me/201010572428"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="30"/></a>
 </p>
 
 ---
 
-💡 *I'm always open to discussing exciting projects, open-source contributions, or collaboration opportunities.* 🚀
+💡 *I'm always open to discussing exciting projects, open-source contributions, or collaboration opportunities.* 🚀  
+
